@@ -18,7 +18,7 @@ public class Test {
 		//串口管理对象 serialPort
 		SerialPortManager manager = new SerialPortManager();
 
-		//打开端口,COM200 38400,端口号和波特率和仿真软件一致！
+		//打开端口,COM201 38400,端口号和波特率和仿真软件一致！
 		SerialPort serialPort = manager.openPort("COM201", 38400);
 
 		//初始化获取Zigbee传感器数据的对象
