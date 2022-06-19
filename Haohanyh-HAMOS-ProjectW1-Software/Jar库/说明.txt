@@ -1,0 +1,4 @@
+1.在Java项目中导入RXTXcomm.jar包
+
+2.将 rxtxSerial.dll 拷贝到---> <JAVA_HOME>\jre\bin
+     rxtxParallel.dll 拷贝到---> <JAVA_HOME>\jre\bin
